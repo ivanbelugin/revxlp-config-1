@@ -1,4 +1,5 @@
-board: seeeduino_xiao_ble
-shield: revxlp
-snippet: studio-rpc-usb-uart
+include:
+-board: seeeduino_xiao_ble
+ shield: revxlp
+ snippet: studio-rpc-usb-uart
 
