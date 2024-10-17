@@ -1,4 +1,4 @@
-board: [seeeduino_xiao]
+board: [seeeduino_xiao_ble]
 shield: [revxlp]
 snippet: [studio-rpc-usb-uart]
 
