@@ -69,10 +69,10 @@
 
         navigation {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp LS(LC(LEFT_ARROW))  &kp LS(LC(RIGHT))  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp LC(LEFT)            &kp LC(RIGHT)      &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans                  &trans             &trans  &trans  &trans
-                        &trans  &trans  &trans    &trans  &trans                  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp UP    &kp LS(LC(LEFT_ARROW))  &kp LS(LC(RIGHT))  &kp HOME  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &kp DOWN  &kp LC(LEFT)            &kp LC(RIGHT)      &kp END   &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans                  &trans             &trans    &trans  &trans
+                        &trans  &trans  &trans    &trans    &trans                  &trans
             >;
         };
     };
