@@ -27,7 +27,7 @@
             then-layer = <3>;
         };
 
-        tri-layer {
+        tri-layer1 {
             if-layers = <4 1>;
             then-layer = <3>;
         };
