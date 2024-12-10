@@ -76,7 +76,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &kp UP    &kp LS(LC(LEFT_ARROW))  &kp LS(LC(RIGHT))  &kp HOME  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &kp DOWN  &kp LC(LEFT)            &kp LC(RIGHT)      &kp END   &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans    &trans                  &trans             &trans    &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans    &kp LG(LS(LEFT))        &kp LS(LG(RIGHT))  &trans    &trans  &trans
                         &trans  &trans  &trans    &trans    &trans                  &trans
             >;
         };
